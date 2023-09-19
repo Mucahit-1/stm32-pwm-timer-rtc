@@ -1,11 +1,3 @@
-/*
- * main_app.c
- *
- *  Created on: Sep 17, 2023
- *      Author: riyad
- */
-
-
 #include <string.h>
 #include<stdio.h>
 #include <stdint.h>
