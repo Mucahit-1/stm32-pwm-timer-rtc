@@ -1,9 +1,4 @@
-/*
- * main_app.h
- *
- *  Created on: Sep 17, 2023
- *      Author: riyad
- */
+
 
 #ifndef MAIN_H_
 #define MAIN_H_
