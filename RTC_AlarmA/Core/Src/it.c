@@ -1,10 +1,3 @@
-/*
- * it.c
- *
- *  Created on: Sep 17, 2023
- *      Author: riyad
- */
-
 
 #include "main_app.h"
 
